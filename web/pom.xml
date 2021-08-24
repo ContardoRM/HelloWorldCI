@@ -37,7 +37,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://70.37.110.200:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://ip172-18-0-15-c4ihpuvnjsv000fq75v0-8081.direct.labs.play-with-docker.com/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
